@@ -1,0 +1,14 @@
+{
+  "name": "hesper-forge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A GitHub-compatible git forge in pure Node.js: REST v3, GraphQL v4, MCP and git smart HTTP in one dependency-free process",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
